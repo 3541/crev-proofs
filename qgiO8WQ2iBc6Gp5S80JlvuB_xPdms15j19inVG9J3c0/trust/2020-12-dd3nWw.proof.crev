@@ -17,3 +17,22 @@ comment: |-
 q7W5i5k9FJN5Fy2ce6DflSHAckXzv705IzncB9z4nR18941BeHlGwjYkr9cqlsuTn7GzyaF_UJi_JFzFLACIAw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2020-12-17T13:47:08.608552185+11:00"
+from:
+  id-type: crev
+  id: qgiO8WQ2iBc6Gp5S80JlvuB_xPdms15j19inVG9J3c0
+  url: "https://github.com/3541/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+comment: |-
+  If you can't trust the author of the tool itself, there's a problem.
+----- SIGN CREV PROOF -----
+n2beRNrWxcA1rfJIp56xnzseOpcEQTPz3OZOWDdyRO6FIUMRj0ry6NlnfG8m7ah0B53Dc-PfjCm_ykrJ50CXDA
+----- END CREV PROOF -----
+
