@@ -1,0 +1,19 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2020-12-17T13:45:40.623333211+11:00"
+from:
+  id-type: crev
+  id: qgiO8WQ2iBc6Gp5S80JlvuB_xPdms15j19inVG9J3c0
+  url: "https://github.com/3541/crev-proofs"
+ids:
+  - id-type: crev
+    id: VylyTuk8CMGqIxgHixWaqfiUn3xZyzOA1wFrQ0sR1As
+    url: "https://github.com/BurntSushi/crev-proofs"
+trust: high
+comment: |-
+  Probably more likely to detect problems than I am.
+----- SIGN CREV PROOF -----
+q7W5i5k9FJN5Fy2ce6DflSHAckXzv705IzncB9z4nR18941BeHlGwjYkr9cqlsuTn7GzyaF_UJi_JFzFLACIAw
+----- END CREV PROOF -----
+
