@@ -1,0 +1,22 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-12-17T13:55:43.049973943+11:00"
+from:
+  id-type: crev
+  id: qgiO8WQ2iBc6Gp5S80JlvuB_xPdms15j19inVG9J3c0
+  url: "https://github.com/3541/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: cfg-if
+  version: 1.0.0
+  revision: e60fa1efeab0ec6e90c50d93ec526e1410459c23
+  digest: YmRVto2mw7U7GJhrOe13k_5Sgg9TcQWK1NuLN2Qiz5E
+review:
+  thoroughness: low
+  understanding: medium
+  rating: strong
+----- SIGN CREV PROOF -----
+uE_bY5B_kPmNtx8SMa605x9e2SYSZCI5Pf7ZY9-PtI2trCObYyjkpVkGPbL4VgMcNp9Cp_7QXT5NrZjshgtLDQ
+----- END CREV PROOF -----
+
